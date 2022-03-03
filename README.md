@@ -1,5 +1,9 @@
 ### Hi there 👋
+We have unified the accounts according to the terms of use.
 
+- 🔭 I’m currently working on React / TypeScript Project
+
+by Googletranslate
 <!--
 **sawpf/sawpf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
