@@ -1,5 +1,5 @@
 ### Hi there 👋
-Contribute every day  
+~~Contribute every day~~ 😢  
 We have unified the accounts according to the terms of use.
 
 - 🔭 I’m currently working on React / TypeScript Project
